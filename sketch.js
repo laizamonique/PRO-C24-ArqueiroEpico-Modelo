@@ -74,11 +74,11 @@ function draw() {
    //   }
    // }
 
-  // Title
+  // Título
   fill("#FFFF");
   textAlign("center");
   textSize(40);
-  text("EPIC ARCHERY", width / 2, 100);
+  text("ARQUEIRO ÉPICO", width / 2, 100);
 }
 
 // function keyPressed() {
